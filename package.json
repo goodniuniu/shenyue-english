@@ -1,0 +1,13 @@
+{
+  "name": "shenyue-english-learning",
+  "private": true,
+  "version": "1.0.0",
+  "description": "申悦学习 · AI 指导英语学习（GitHub Pages 静态网站，站点源在 docs/）",
+  "scripts": {
+    "dev": "vite docs --host 0.0.0.0 --config vite.config.js",
+    "build": "python build_site.py"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
