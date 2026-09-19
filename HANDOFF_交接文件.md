@@ -83,7 +83,7 @@ vite.config.js / package.json / .gitignore / 部署说明_GitHubPages.md / READM
 
 ## 7. 待办与下一步（按优先级）
 
-1. **GitHub Pages 部署**：用户给账号后按 `部署说明_GitHubPages.md` 操作（建议仓库名 `shenyue-english`）。当前已完成本地全量验证。
+1. **GitHub 部署**：✅ 已推送 git@github.com:goodniuniu/shenyue-english.git（main，SSH 走 443+代理与物理项目同环境）。**仅剩一步**：在网页 Settings → Pages → Deploy from a branch → main / `docs` → Save（需 goodniuniu 登录态，本机 gh CLI 未装、浏览器无登录态，无法代办）。约 1–3 分钟后生效：https://goodniuniu.github.io/shenyue-english/
 2. 假期中用户可能回来：录入摸底/模拟错题 → 建卡（V/G/L 分流）→ 更新状态表。
 3. 考后（9.28 当周）：月考试卷入库分析，校准"三校题型假设"与实际考试的偏差（尤其：单选有无、读后续写有无）。
 4. **国庆专项（10.1–10.7）**：月考分析完成后按框架生成，主线候选：月考暴露短板 / 应用文强化 / 读后续写起步。
